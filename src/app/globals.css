@@ -9,6 +9,36 @@
     height: 600px;
 }
 .main{
-    /* filter: blur(23px); */
     opacity: 0.5;
+}
+
+.li1:hover{
+    color: rgba(244, 244, 11, 0.847);
+    transform: scale(1.1);
+    transition-duration:0.3s;
+}
+.li2:hover{
+    color: rgba(244, 244, 11, 0.847);
+    transform: scale(1.1);
+    transition-duration:0.3s;
+}
+.li3:hover{
+    color: rgba(244, 244, 11, 0.847);
+    transform: scale(1.1);
+    transition-duration:0.3s;
+}
+.li4:hover{
+    color: rgba(244, 244, 11, 0.847);
+    transform: scale(1.1);
+    transition-duration:0.3s;
+}
+.search:hover{
+    color: yellow;
+    transition: ease-in-out;
+    transition-duration:0.3s;
+    transform: scale(1.1);
+}
+.logo1{
+    width: 50px;
+    height: 50px;
 }
