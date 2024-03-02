@@ -51,7 +51,7 @@ export default function Oldagehome(props) {
                 <div className="flex justify-evenly">
                   <div className="border p-4 w-52 mx-2">
                     <div>
-                      <img className="w-44 h-28" src="./hero.jpg" alt="" />
+                      <img className="w-44 h-28" src={product.pfp} alt="" />
                     </div>
                     <div className="text-blue-600">{product.nameorg}</div>
                     <div>{product.address}</div>

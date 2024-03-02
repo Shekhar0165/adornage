@@ -26,7 +26,7 @@ export default function Header() {
         </nav>
         <div>
           <div className="text-white font-semibold text-3xl flex justify-center mt-40">
-            # INDIA'S 1ST ONLINE PLATFORM CONNECTING ELDERLY WITH ORPHANAGES
+            # INDIA'S 1ST ONLINE PLATFORM CONNECTING PEOPLE WITH ELDERLY & ORPHANS
           </div>
           <div className="text-white flex justify-center mb-32 mt-4">
             <input
