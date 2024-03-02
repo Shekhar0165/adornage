@@ -32,11 +32,11 @@ export default function Footer() {
 
           Mobile and social
           </span>
-          <ul className='flex'>
-            <li className='text-white mx-2'>facebook</li>
-            <li className='text-white mx-2'>twitter</li>
-            <li className='text-white mx-2'>Youtube</li>
-            <li className='text-white mx-2'>instagram</li>
+          <ul className='flex my-2'>
+            <li className='text-white mx-2 cursor-pointer'><img className='w-5 h-5' src="./facebook.png" alt="" /></li>
+            <li className='text-white mx-2 my-1 cursor-pointer'><img className='w-5 h-5' src="./instagram.png" alt="" /></li>
+            <li className='text-white mx-2 my-1 cursor-pointer'><img className='w-5 h-5' src="./twitter.png" alt="" /></li>
+            <li className='text-white mx-2 my-1 cursor-pointer'><img className='w-5 h-5' src="./youtube.webp" alt="" /></li>
           </ul>
         </div>
     </div>

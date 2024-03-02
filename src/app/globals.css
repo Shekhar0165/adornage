@@ -6,34 +6,20 @@
     background-image: url('./here1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 600px;
+    height: 700px;
 }
 .main{
     opacity: 0.5;
 }
-
-.li1:hover{
-    color: rgba(244, 244, 11, 0.847);
-    transform: scale(1.1);
-    transition-duration:0.3s;
-}
-.li2:hover{
-    color: rgba(244, 244, 11, 0.847);
-    transform: scale(1.1);
-    transition-duration:0.3s;
-}
 .li3:hover{
-    color: rgba(244, 244, 11, 0.847);
     transform: scale(1.1);
     transition-duration:0.3s;
 }
-.li4:hover{
-    color: rgba(244, 244, 11, 0.847);
+.libtn:hover{
     transform: scale(1.1);
     transition-duration:0.3s;
 }
 .search:hover{
-    color: yellow;
     transition: ease-in-out;
     transition-duration:0.3s;
     transform: scale(1.1);
