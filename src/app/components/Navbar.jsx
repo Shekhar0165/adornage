@@ -5,9 +5,9 @@ export default function Navbar() {
   return (
     <>
          <nav className="flex justify-between mx-4 py-4">
-          <Link href="./">
+          <Link href="/">
             <div className="mx-6 font-semibold text-lg logo1">
-              <img className="cursor-pointer" src="./logo.png" alt="" />
+              <img className="cursor-pointer" src="../logo.png" alt="" />
             </div>
           </Link>
           <ul className="flex text-blue-500">
